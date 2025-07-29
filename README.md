@@ -1,5 +1,8 @@
 # PD2 Reawakening Launcher
 
+### This launcher is now deprecated and will no longer be receiving updates.
+### Please use the new launcher at https://github.com/synpoox/pd2-ra-launcher
+
 This project serves as the launcher for [PD2 Reawakening](https://github.com/synpoox/pd2-reawakening), a mod of [Project Diablo 2](https://projectdiablo2.com/).
 
 ## Prerequisites
